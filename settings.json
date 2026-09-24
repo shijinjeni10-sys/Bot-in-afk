@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
+  "server": {shijin345.aternos.me
     "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "port": 23506,
     "version": "",
     "try-creative": false
   },
